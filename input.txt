@@ -1,0 +1,244 @@
+P1. Las protecciones eléctricas buscan prevenir daños ante condiciones anormales como:
+A) Solo sobretensiones
+B) Sobrecargas, cortocircuitos, fallas a tierra y sobretensiones
+C) Únicamente contactos directos
+D) Solo descargas atmosféricas
+Correcta: B
+
+P2. Una sobrecarga se caracteriza por:
+A) Duración de pocos milisegundos y corrientes miles de veces In
+B) Contacto accidental entre dos puntos de distinto potencial
+C) Exceso de corriente por demanda de un receptor durante segundos hasta horas
+D) Aumento de tensión por maniobras en red
+Correcta: C
+
+P3. Un cortocircuito es:
+A) Exceso de corriente por demanda normal del receptor
+B) Contacto accidental entre dos puntos de diferente potencial
+C) Un aumento de tensión superior al 10% durante más de 1 s
+D) Una fuga a tierra por armónicos
+Correcta: B
+
+P4. Un choque eléctrico por contacto directo es:
+A) Contacto con una masa conductora en tensión por fallo de aislamiento
+B) Contacto con una parte en tensión de la instalación
+C) Aumento de tensión por rayo
+D) Una sobreintensidad por demanda del receptor
+Correcta: B
+
+P5. El fusible se funde porque:
+A) Se enfría el material de relleno
+B) La corriente excede lo permitido y el elemento de fusión se calienta y se funde
+C) Detecta diferencia entre corriente de entrada y salida
+D) Un varistor aumenta su impedancia
+Correcta: B
+
+P6. El tiempo total de actuación de un fusible se expresa como:
+A) tt = ta − tp
+B) tt = tp + ta
+C) tt = In / Un
+D) tt = Icn × Un
+Correcta: B
+
+P7. La tensión asignada (Un) de un fusible debe ser:
+A) Menor que la tensión de la aplicación
+B) Igual o mayor que la tensión de la aplicación
+C) Siempre 230 V
+D) Igual a la corriente nominal
+Correcta: B
+
+P8. El poder de corte de un fusible debe ser:
+A) Menor que la intensidad prevista de cortocircuito
+B) Igual o mayor que la intensidad de cortocircuito prevista
+C) Igual al calibre del receptor
+D) Independiente de la instalación
+Correcta: B
+
+P9. En la designación de fusibles, la primera letra g significa:
+A) Solo cortocircuitos
+B) Uso general (sobrecargas y cortocircuitos)
+C) Motores
+D) Semiconductores
+Correcta: B
+
+P10. Un fusible de uso parcial (por ejemplo aM o aR) se usa exclusivamente para:
+A) Sobrecargas
+B) Cortocircuitos
+C) Sobretensiones permanentes
+D) Contactos indirectos
+Correcta: B
+
+P11. Los fusibles NH (de cuchilla) suelen requerir para manipularse:
+A) Destornillador plano
+B) Maneta extractora (a veces con manguito aislante)
+C) Alicates universales
+D) Llave fija
+Correcta: B
+
+P12. Un seccionador portafusibles:
+A) Permite corte en carga con total seguridad siempre
+B) No está diseñado para cortar en carga (con consumidores conectados)
+C) Solo se usa en CC
+D) Funciona como diferencial
+Correcta: B
+
+P13. Una ventaja del magnetotérmico frente al fusible es:
+A) No dispara por cortocircuito
+B) No hay que sustituirlo tras disparar
+C) No tiene mecanismo térmico
+D) Solo funciona en CC
+Correcta: B
+
+P14. En un magnetotérmico, el mecanismo magnético actúa principalmente ante:
+A) Sobrecargas
+B) Cortocircuitos
+C) Sobretensiones permanentes
+D) Fugas a tierra
+Correcta: B
+
+P15. En un magnetotérmico, el bimetal corresponde al:
+A) Mecanismo magnético
+B) Mecanismo térmico
+C) Varistor
+D) Núcleo toroidal del diferencial
+Correcta: B
+
+P16. En curva B, el disparo magnético IM vale aproximadamente:
+A) 1 a 2 In
+B) 3 a 5 In
+C) 5 a 10 In
+D) 10 a 20 In
+Correcta: B
+
+P17. La curva D se recomienda cuando:
+A) No hay transitorios
+B) Hay cargas domésticas típicas
+C) Se prevén transitorios como arranque de motores
+D) Solo para semiconductores
+Correcta: C
+
+P18. Un interruptor diferencial protege principalmente frente a:
+A) Sobrecargas del motor
+B) Derivaciones por faltas de aislamiento hacia tierra/masa (protección de personas)
+C) Sobretensiones permanentes por rotura de neutro
+D) Contactos directos por sobreintensidad
+Correcta: B
+
+P19. El diferencial actúa cuando:
+A) La corriente de salida es mayor que la de entrada
+B) La corriente de retorno es menor que la entrante (existe fuga/derivación)
+C) La tensión sube un 10% durante más de 1 s
+D) Se supera el poder de corte del magnetotérmico
+Correcta: B
+
+P20. El diferencial tipo AC se usa en general cuando:
+A) La carga deforma la onda (rectificadores)
+B) Son instalaciones con variadores trifásicos
+C) Los receptores no deforman la onda senoidal de 50 Hz
+D) Es obligatorio para recarga de vehículo eléctrico
+Correcta: C
+
+P21. El diferencial tipo A es el obligatorio (según el documento) para:
+A) Instalaciones de alumbrado público
+B) Infraestructuras de recarga de vehículos eléctricos e instalaciones fotovoltaicas
+C) Líneas ferroviarias en CC
+D) Protección general de cables (gG)
+Correcta: B
+
+P22. El diferencial tipo B se utiliza, por ejemplo:
+A) Solo en viviendas sin electrónica
+B) En recargas de VE tipo 3 y variadores trifásicos (p. ej. ascensores)
+C) Solo para falsos positivos por armónicos
+D) Solo para no disparar nunca
+Correcta: B
+
+P23. Un limitador de sobretensiones deriva a tierra las ondas peligrosas gracias al:
+A) Bimetal
+B) Relé de mínima tensión
+C) Varistor (comportamiento semiconductor)
+D) Contactor de potencia
+Correcta: C
+
+P24. Las sobretensiones permanentes se definen como:
+A) Picos muy elevados de microsegundos
+B) Incrementos superiores al 10% con duración mayor a 1 s
+C) Corriente miles de veces In durante ms
+D) Fuga a tierra por armónicos
+Correcta: B
+
+P25. La causa principal de la sobretensión permanente, según el documento, es:
+A) Descargas atmosféricas
+B) Rotura o desconexión del neutro
+C) Sobrecarga del motor
+D) Curva D del magnetotérmico
+Correcta: B
+
+P26. En categoría de sobretensión, la Categoría III incluye:
+A) Equipos informáticos muy sensibles
+B) Electrodomésticos y herramientas portátiles
+C) Elementos de instalación fija (cuadros, interruptores, tomas, cables)
+D) Contadores y telemedida en el origen
+Correcta: C
+
+P27. El relé térmico protege principalmente contra:
+A) Cortocircuitos
+B) Sobrecargas en motores (sobrecalentamiento por sobreintensidad)
+C) Sobretensiones transitorias
+D) Diferencias de corriente entre ida y vuelta
+Correcta: B
+
+P28. En el relé térmico, al disparar se produce:
+A) Cierre del NC 95-96 y apertura del NO 97-98
+B) Apertura del NC 95-96 y cierre del NO 97-98
+C) Solo apertura de contactos de potencia
+D) Rearme inmediato sin enfriamiento
+Correcta: B
+
+P29. Las clases de disparo IEC para relés térmicos incluyen, entre otras:
+A) Clase 2, 4 y 6
+B) Clase 10, 20 y 30 (y clase 5 rápida)
+C) Clase A, AC y B
+D) Curva B, C y D
+Correcta: B
+
+P30. En el guardamotor, a diferencia del relé térmico:
+A) No puede regularse
+B) Efectúa la apertura del circuito con sus propios contactos (protección magnetotérmica)
+C) Solo señaliza y nunca corta
+D) Solo sirve para semiconductores
+Correcta: B
+
+P31. La puesta a tierra sirve para:
+A) Aumentar la tensión de fallo
+B) Limitar tensiones de fallo y disipar corrientes de defecto
+C) Evitar que actúen las protecciones
+D) Sustituir el diferencial
+Correcta: B
+
+P32. En esquema TT, las masas de la instalación receptora están:
+A) Conectadas a la misma toma de tierra que el neutro de alimentación
+B) Conectadas a una toma de tierra separada de la de la alimentación
+C) Sin puesta a tierra
+D) Conectadas al PEN (CPN) en todo el recorrido
+Correcta: B
+
+P33. En esquema TN-C, una característica clave es:
+A) Neutro y protección separados siempre
+B) Neutro y protección combinados en un solo conductor
+C) No existe neutro
+D) Es obligatorio usar diferencial siempre
+Correcta: B
+
+P34. En esquema IT, se recomienda:
+A) Distribuir siempre el neutro
+B) No distribuir el neutro y limitar la longitud por efecto capacitivo
+C) Conectar el neutro directamente a tierra
+D) Usar únicamente fusibles, sin magnetotérmicos
+Correcta: B
+
+P35. En jerarquía preventiva, el orden correcto es:
+A) EPI → protección colectiva → eliminar riesgo
+B) Eliminar riesgo → protección colectiva → protección individual (EPI)
+C) Protección individual → eliminar riesgo → colectiva
+D) Señalizar → EPI → eliminar riesgo
+Correcta: B
