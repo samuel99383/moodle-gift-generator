@@ -1,230 +1,239 @@
-::1 Definición máquina eléctrica::
-Una máquina eléctrica puede:
+::T3_Q01::
+Una maquina electrica puede:
 {
-=Transformar energía eléctrica en mecánica, mecánica en eléctrica o modificar tensión
-~Solo transformar energía eléctrica en calor
-~Almacenar energía eléctrica
-~Generar únicamente energía térmica
+=Transformar energia electrica en mecanica, mecanica en electrica o modificar tension/corriente
+~Solo transformar energia electrica en calor
+~Almacenar energia electrica
+~Generar solo energia termica
 }
 
-::2 Clasificación general::
-Las máquinas eléctricas se dividen en:
+::T3_Q02::
+Las maquinas electricas se dividen en:
 {
-=Rotativas y estáticas
+=Rotativas y estaticas
 ~CA y CC
 ~Motores y alternadores
-~Síncronas y universales
+~Sincronas y universales
 }
 
-::3 Parte fija del motor::
-La parte fija del motor se denomina:
+::T3_Q03::
+La parte fija de un motor se llama:
 {
-=Estátor
+=Estator
 ~Rotor
 ~Eje
-~Inducido
+~Carcasa
 }
 
-::4 Parte móvil::
-La parte móvil del motor es:
+::T3_Q04::
+La parte movil de un motor se llama:
 {
 =Rotor
-~Estátor
-~Carcasa
-~Núcleo
+~Estator
+~Caja de bornes
+~Nucleo
 }
 
-::5 Par motor::
+::T3_Q05::
 El par motor es:
 {
 =La capacidad de arrastre del motor
-~La potencia eléctrica absorbida
-~La velocidad angular
+~La potencia electrica absorbida
+~La velocidad angular maxima
 ~La corriente nominal
 }
 
-::6 Rendimiento::
+::T3_Q06::
 El rendimiento de un motor es:
 {
-=La relación entre potencia mecánica y eléctrica
-~La potencia consumida
-~La corriente nominal
-~El par máximo
+=Relacion entre potencia mecanica y potencia electrica
+~Potencia consumida siempre igual a potencia util
+~Corriente nominal del motor
+~Par maximo a plena carga
 }
 
-::7 Motor CC serie::
+::T3_Q07::
 Un motor CC serie:
 {
-=No debe funcionar en vacío
-~Mantiene velocidad constante
+=No debe funcionar en vacio
+~Mantiene velocidad constante con cualquier carga
 ~Tiene bajo par de arranque
-~No tiene colector
+~No usa colector
 }
 
-::8 Motor CC shunt::
-El motor CC derivación se caracteriza por:
+::T3_Q08::
+Un motor CC shunt se caracteriza por:
 {
-=Mantener velocidad relativamente constante
-~Embalarse en vacío
-~No tener devanado de excitación
-~Tener alto deslizamiento
+=Mantener velocidad relativamente constante con la carga
+~Embalarse en vacio de forma peligrosa
+~No tener devanado de excitacion
+~Tener gran deslizamiento
 }
 
-::9 Motor CC compound::
-El motor compound combina:
+::T3_Q09::
+Un motor CC compound combina conexion:
 {
-=Serie y derivación
-~Shunt y síncrono
+=Serie y derivacion
+~Shunt y sincronismo
 ~Brushless y paso a paso
 ~Jaula y anillos
 }
 
-::10 Motor brushless::
-El motor brushless:
+::T3_Q10::
+Un motor brushless:
 {
-=No tiene escobillas
+=No tiene escobillas y requiere control electronico
 ~Tiene colector de delgas
-~Necesita anillos rozantes
-~Funciona solo en CC sin electrónica
+~Necesita anillos rozantes para funcionar
+~Funciona sin electronica de control
 }
 
-::11 Motor paso a paso::
-Un motor paso a paso se usa cuando se necesita:
+::T3_Q11::
+Un motor paso a paso se usa para:
 {
-=Control preciso de posición
-~Gran velocidad constante
-~Alta potencia industrial
-~Funcionamiento sin controlador
+=Control preciso de posicion
+~Alta potencia industrial continua
+~Velocidad constante muy alta
+~Funcionar sin controlador
 }
 
-::12 Servomotor::
-El servomotor funciona normalmente en:
+::T3_Q12::
+Un servomotor trabaja normalmente en:
 {
-=Lazo cerrado con encoder
-~Lazo abierto
-~Modo manual
-~Sin electrónica
+=Lazo cerrado con encoder o resolver
+~Lazo abierto sin sensores
+~Modo manual sin control
+~Solo con CA sin electronica
 }
 
-::13 Motor síncrono::
-Un motor síncrono:
+::T3_Q13::
+Un motor sincrono:
 {
-=Gira a velocidad igual a la de sincronismo
-~Tiene deslizamiento elevado
-~No necesita alimentación
-~Funciona solo en CC
+=Gira a velocidad constante igual a la de sincronismo
+~Siempre gira por debajo de sincronismo por deslizamiento
+~No necesita alimentacion en el estator
+~Funciona solo con CC
 }
 
-::14 Motor asíncrono::
-El motor asíncrono:
+::T3_Q14::
+Un motor asincrono trifasico:
 {
-=Gira ligeramente por debajo de la velocidad síncrona
+=Gira ligeramente por debajo de la velocidad de sincronismo
 ~Gira exactamente a sincronismo
 ~No tiene rotor
-~Funciona sin campo magnético
+~No genera campo magnetico
 }
 
-::15 Velocidad síncrona::
-La velocidad síncrona depende de:
+::T3_Q15::
+La velocidad sincrona depende de:
 {
-=Frecuencia y número de polos
-~Potencia del motor
-~Corriente absorbida
+=Frecuencia de alimentacion y numero de polos
+~Potencia mecanica
+~Corriente nominal
 ~Par resistente
 }
 
-::16 Deslizamiento::
+::T3_Q16::
 El deslizamiento es:
 {
-=La diferencia entre velocidad síncrona y real del rotor
+=Diferencia entre velocidad sincrona y velocidad real del rotor
 ~La corriente de arranque
-~La potencia perdida
-~La velocidad nominal
+~La potencia perdida en el hierro
+~El numero de fases
 }
 
-::17 Jaula de ardilla::
-El motor de jaula de ardilla se caracteriza por:
+::T3_Q17::
+El motor de jaula de ardilla destaca por:
 {
-=Ser robusto y de bajo mantenimiento
-~Tener escobillas
-~Tener colector
-~No tener rotor
+=Robustez y bajo mantenimiento
+~Necesitar escobillas
+~Tener resistencias externas permanentes
+~Ser mas caro que el de anillos por norma general
 }
 
-::18 Anillos rozantes::
-El motor de anillos rozantes:
+::T3_Q18::
+En motores de anillos rozantes, las resistencias externas sirven para:
 {
-=Permite reducir corriente de arranque con resistencias externas
-~No necesita mantenimiento
-~No tiene escobillas
-~No tiene rotor bobinado
-}
-
-::19 Motor monofásico condensador::
-El devanado auxiliar en motores monofásicos sirve para:
-{
-=Generar par de arranque
-~Reducir potencia
-~Eliminar deslizamiento
-~Aumentar polos
-}
-
-::20 Polos sombreados::
-El motor de polos sombreados se caracteriza por:
-{
-=Bajo coste y baja potencia
-~Alta eficiencia industrial
-~Gran par de arranque
-~Uso en alta potencia
-}
-
-::21 Conexión Steinmetz::
-La conexión Steinmetz permite:
-{
-=Usar un motor trifásico en red monofásica
+=Reducir corriente de arranque y aumentar par de arranque
+~Eliminar el campo magnetico
+~Aumentar la frecuencia de red
 ~Convertir CC en CA
-~Eliminar el deslizamiento
-~Duplicar potencia
 }
 
-::22 Motor universal::
-El motor universal:
+::T3_Q19::
+En motor monofasico de fase partida, el devanado auxiliar sirve para:
 {
-=Puede funcionar en CA y CC
-~Solo funciona en CC
-~No tiene escobillas
-~No tiene colector
+=Conseguir par de arranque
+~Aumentar el numero de polos
+~Eliminar el deslizamiento
+~Reducir la tension de linea
 }
 
-::23 Transformador::
+::T3_Q20::
+Un motor de polos sombreados suele ser:
+{
+=De baja potencia y bajo coste
+~De alta potencia industrial
+~De alto par de arranque
+~De alta eficiencia para grandes cargas
+}
+
+::T3_Q21::
+La conexion Steinmetz permite:
+{
+=Usar un motor trifasico en una red monofasica mediante condensador
+~Usar un motor monofasico en red trifasica sin cambios
+~Eliminar el deslizamiento
+~Aumentar potencia por encima del nominal
+}
+
+::T3_Q22::
+Un motor universal puede funcionar con:
+{
+=Corriente alterna y corriente continua
+~Solo corriente continua
+~Solo corriente alterna trifasica
+~Solo corriente continua trifasica
+}
+
+::T3_Q23::
+Un transformador es una maquina:
+{
+=Estatica
+~Rotativa
+~De colector
+~De anillos rozantes
+}
+
+::T3_Q24::
 Un transformador funciona por:
 {
-=Inducción electromagnética
-~Rozamiento mecánico
-~Conmutación
+=Induccion electromagnetica
+~Rozamiento mecanico
+~Conmutacion mecanica
 ~Deslizamiento
 }
 
-::24 Transformador en CC::
-En corriente continua un transformador:
+::T3_Q25::
+En corriente continua, un transformador:
 {
-=No funciona salvo en el instante inicial
-~Funciona normalmente
-~Aumenta la tensión
-~Reduce corriente
+=No induce tension salvo en el transitorio inicial
+~Funciona igual que en alterna
+~Aumenta siempre la tension
+~Reduce siempre la corriente
 }
 
-::25 Relación de transformación::
-En un transformador ideal:
+::T3_Q26::
+En transformador ideal se cumple:
 {
 =V1/V2 = N1/N2
-~V1 = V2
-~I1 = I2
-~N1 = N2
+~V1 = V2 siempre
+~I1 = I2 siempre
+~N1 = N2 siempre
 }
 
-::26 Potencia transformador::
-La capacidad de un transformador se expresa en:
+::T3_Q27::
+La potencia nominal del transformador se expresa en:
 {
 =VA o kVA
 ~W exclusivamente
@@ -232,38 +241,29 @@ La capacidad de un transformador se expresa en:
 ~RPM
 }
 
-::27 Pérdidas en vacío::
-Las pérdidas en vacío se deben a:
+::T3_Q28::
+Las perdidas en vacio del transformador se deben principalmente a:
 {
-=Histéresis y corrientes de Foucault
-~Efecto Joule
-~Rozamiento
-~Escobillas
+=Histeresis y corrientes de Foucault
+~Efecto Joule en los devanados
+~Rozamiento de cojinetes
+~Escobillas del colector
 }
 
-::28 Pérdidas en carga::
-Las pérdidas en carga son principalmente:
+::T3_Q29::
+Las perdidas en carga del transformador son principalmente:
 {
-=I²R en los devanados
-~Histéresis
-~Foucault
-~Dieléctricas únicamente
+=I cuadrado por R en los devanados
+~Histeresis del nucleo
+~Perdidas dielectricas solamente
+~Corrientes de Foucault exclusivamente
 }
 
-::29 Motor Dahlander::
-La conexión Dahlander permite:
+::T3_Q30::
+En un sistema trifasico, el campo giratorio se genera por:
 {
-=Cambiar número de polos y velocidad 1:2
-~Cambiar tensión
-~Eliminar deslizamiento
-~Convertir CA en CC
-}
-
-::30 Campo giratorio::
-En un motor trifásico el campo giratorio se genera por:
-{
-=Corrientes trifásicas desfasadas 120°
+=Corrientes trifasicas desfasadas 120 grados
 ~Corriente continua
-~Un solo devanado
-~Resistencia externa
+~Un solo devanado alimentado
+~Resistencias externas en el rotor
 }
